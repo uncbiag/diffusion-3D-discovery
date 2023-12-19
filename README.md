@@ -2,7 +2,7 @@
 
 This repo includes the code for [Unsupervised Discovery of 3D Hierarchical Structure with Generative Diffusion Features](https://arxiv.org/abs/2305.00067). 
 
-We show our method on the Synthetic 3D Dataset from Hsu et al ( [regular]([https://nda.nih.gov/oai/](https://drive.google.com/file/d/1mdRuSkXmTof9vq62FSmoZXneUme_97dc/view)) , [irregular]([https://nda.nih.gov/oai/](https://drive.google.com/file/d/1XGx8GQlNGCStmxjYatWGBGAW25e2zxTn/view)) ) and also on [BraTS'19](https://www.med.upenn.edu/cbica/brats-2019/)
+We show our method on the Synthetic 3D Dataset from Hsu et al ([regular](https://drive.google.com/file/d/1mdRuSkXmTof9vq62FSmoZXneUme_97dc/view), [irregular](https://drive.google.com/file/d/1XGx8GQlNGCStmxjYatWGBGAW25e2zxTn/view)) and also on [BraTS'19](https://www.med.upenn.edu/cbica/brats-2019/)
 
 
 ### Pipeline
